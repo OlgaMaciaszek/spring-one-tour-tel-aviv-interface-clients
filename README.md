@@ -2,4 +2,5 @@
 
 Interact with the demo:
 
-`http POST :9081/register < person.json`
+1) Run the verification-service and one of the customer-service apps
+2) Run requests: `http POST :9081/register < person.json`
